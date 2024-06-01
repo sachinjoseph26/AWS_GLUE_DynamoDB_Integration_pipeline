@@ -1,0 +1,1 @@
+# AWS_GLUE_DynamoDB_Integration_pipeline
